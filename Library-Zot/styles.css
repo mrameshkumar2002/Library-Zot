@@ -1,0 +1,29 @@
+body{
+	background-color:whitesmoke;
+}
+.card{
+	padding: 10px;
+	background: rgb(247, 249, 255);
+}
+
+.dataTables_filter{
+	padding-bottom: 10px;
+}
+.dataTables_length{
+	padding-bottom: 10px;
+}
+.title{
+	text-align:center;
+	font-size: 1.5rem ;
+	padding-left: 17%;
+	padding-top: 20px;
+}
+.tit
+{
+text-align: right;
+font-size: 1.5rem ;
+padding-top: 20px;
+}
+.para{
+	text-align: center;
+}
